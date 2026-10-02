@@ -1,19 +1,33 @@
-# 👋🏾 Hi, I’m Albert O’doom
+<div align="center">
+
+# 👋🏾 ALBERT O’DOOM
 
 ### Backend Engineer • Quantitative Developer • Software Engineering Student
 
-I build backend systems, APIs, data-driven applications, and quantitative software.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+backend+systems;Engineering+data-driven+applications;Researching+quantitative+systems;Python+%7C+Django+%7C+FastAPI;Building+systems+where+software+meets+data" alt="Typing SVG" />
 
-My work sits at the intersection of **software engineering, financial technology, and applied problem solving**. I enjoy taking an idea from a rough concept, turning it into a structured system, and continuously improving it through testing, validation, and iteration.
+</div>
 
-Currently focused on:
+---
+
+## 👨🏾‍💻 About Me
+
+I am a final-year **Computer Engineering student** focused on backend engineering, quantitative software, and data-driven systems.
+
+I enjoy taking an idea from a rough concept and turning it into a structured system with clear architecture, reliable data flows, validation, and production-oriented engineering practices.
+
+My current interests include:
 
 * 🐍 Python backend development
 * 🌐 Django & FastAPI
-* 🗄️ PostgreSQL & database-driven systems
+* 🗄️ PostgreSQL & database systems
+* 📊 Data engineering and analysis
 * 📈 Quantitative finance & research systems
-* ⚙️ API design and backend architecture
-* 🧪 Testing, validation, and production-oriented engineering
+* ⚙️ API architecture and backend development
+* 🧪 Testing, validation, and reliability
+* 🚀 Turning research projects into usable software
+
+> **Build carefully. Validate relentlessly. Ship intentionally.**
 
 ---
 
@@ -21,179 +35,247 @@ Currently focused on:
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-### Backend & Frameworks
+### Backend
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
 
 ### Databases & Tools
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Work
 
-### 📈 SWENE CAPITAL / QuantFX
+## 📈 SWENE CAPITAL / QuantFX
 
-A quantitative research and controlled execution platform focused on turning market data into validated trading research.
+**Quantitative Research & Controlled Execution Platform**
 
-**Focus areas:**
+A research-oriented quantitative finance system designed around a simple principle:
 
-* Market data validation
+> **Validated market behavior should come before model complexity and execution.**
+
+The platform focuses on:
+
+* Market data capture and validation
+* Dataset manifests and quality checks
 * Event and outcome analysis
 * Behavioral pattern discovery
 * Feature engineering
-* Research pipelines
+* Market-state analysis
+* Behavior registries
+* Opportunity research
+* Machine-learning research
 * Risk management
-* Strategy validation
-* Paper/shadow execution
-* Production-oriented monitoring
+* Exit optimization
+* Paper and shadow execution
+* MT5 integration
+* Monitoring and production safeguards
 
-> **Principle:** Validate the behavior before allowing models or execution logic to depend on it.
+The architecture is designed to keep the research pipeline separated from execution while preserving traceability between **data → behavior → research → risk → execution**.
 
-🔗 [View Repository](https://github.com/en19ma/swene-capital-quant)
-
----
-
-### 📋 RollCall+
-
-A Smart Student Attendance Management System designed to replace paper-based attendance and fragmented spreadsheets with a centralized digital platform.
-
-**Built around:**
-
-* Student, lecturer, and administrator roles
-* Attendance sessions
-* Real-time lecturer dashboards
-* Attendance status tracking
-* Reporting and analytics
-* PostgreSQL
-* Prisma
-* Next.js
-
-🔗 [View Repository](https://github.com/en19ma/Rollcall-plus)
+🔗 **Repository:**
+https://github.com/en19ma/swene-capital-quant
 
 ---
 
-### 🎓 Student Results & Gradebook System
+## 🧑🏾‍🏫 RollCall+
 
-A Django-based academic gradebook system designed to manage students, courses, and scores while demonstrating practical Django ORM querying.
+**Smart Student Attendance Management System**
 
-**Features include:**
+A university attendance platform designed to replace manual attendance processes with a structured digital system.
+
+### Core features
+
+* 👨🏾‍🎓 Student attendance tracking
+* 👨🏾‍🏫 Lecturer dashboards
+* 🏫 Attendance sessions
+* 📊 Attendance reports and analytics
+* 🔐 Role-based access
+* 📍 Attendance validation
+* 🗄️ PostgreSQL database
+* ⚡ API-driven architecture
+
+**Stack:** Next.js • TypeScript • PostgreSQL • Prisma
+
+🔗 **Repository:**
+https://github.com/en19ma/Rollcall-plus
+
+---
+
+## 🎓 Student Results & Gradebook System
+
+A Django-based academic results management system built around relational data and Django ORM queries.
+
+### Features
 
 * Student management
 * Course management
-* Score records
-* Top scorers by course
+* Score management
+* Database seeding
+* Top-3 student queries per course
 * Students below the pass mark
 * Course average calculations
-* Django ORM aggregation and filtering
-* Database migrations and seed data
+* ORM-based reporting
 
-🔗 [View Repository](https://github.com/en19ma/student-gradebook-system)
+**Stack:** Python • Django • SQLite • Django ORM
+
+🔗 **Repository:**
+https://github.com/en19ma/student-gradebook-system
 
 ---
 
-### ⚙️ Backend API Projects
+## ⚙️ Backend API Development
 
-I also work on backend APIs involving authentication, database integration, role-based access, API architecture, and production deployment.
+I also build backend APIs focused on practical application requirements such as:
 
-Areas I have worked with include:
-
-* REST APIs
+* REST API architecture
 * Authentication and authorization
-* Refresh-token flows
+* Refresh-token systems
+* Database integration
+* CRUD operations
 * PostgreSQL
 * Prisma
-* NestJS
 * FastAPI
-* Railway deployments
-* API security and validation
+* NestJS
+* Deployment and production debugging
+
+My backend work emphasizes **clear data models, predictable API behavior, security boundaries, and maintainability**.
 
 ---
 
-## 🧠 Engineering Interests
+# 🧠 Engineering Focus
 
 ```text
-Backend Engineering
-        │
-        ├── APIs
-        ├── Databases
-        ├── Authentication
-        ├── System Architecture
-        └── Production Deployment
-
-Quantitative Engineering
-        │
-        ├── Market Data
-        ├── Research Pipelines
-        ├── Statistical Analysis
-        ├── Strategy Validation
-        └── Risk Management
+┌──────────────────────────────────────────────────────┐
+│                  ENGINEERING FOCUS                   │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  Backend Architecture       ████████████████████     │
+│  API Development            ████████████████████     │
+│  Database Systems            ███████████████████      │
+│  Quant Research              ██████████████████       │
+│  Data Engineering            █████████████████        │
+│  Testing & Validation        ████████████████         │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
-I am particularly interested in systems where **data quality, software architecture, and decision-making logic** all matter.
+I am particularly interested in systems where software engineering and data analysis meet.
+
+That includes financial research platforms, backend infrastructure, analytics systems, and applications that need reliable data pipelines.
 
 ---
 
-## 📚 Currently Learning
+# 🔬 Current Work
 
-* Advanced Django development
+### SWENE CAPITAL / QuantFX
+
+Researching and engineering a quantitative system with an emphasis on:
+
+`Data Quality → Validation → Behavior Discovery → Research → Risk → Controlled Execution`
+
+### Django
+
+Continuing to strengthen my understanding of:
+
+`Models → ORM → Queries → APIs → Authentication → Production`
+
+### Backend Engineering
+
+Building APIs and database-driven systems while improving:
+
+`Architecture → Testing → Security → Deployment → Observability`
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=en19ma&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=en19ma&layout=compact&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=en19ma&hide_border=true" />
+
+</div>
+
+---
+
+# 🧭 Engineering Principles
+
+### Validate before optimizing
+
+A sophisticated model is not useful if the underlying data or behavior has not been validated.
+
+### Prefer targeted changes
+
+I aim to improve existing systems without rewriting working components unnecessarily.
+
+### Design for observability
+
+Systems should make it possible to understand what happened, why it happened, and where something failed.
+
+### Separate research from execution
+
+Especially in quantitative systems, research logic and execution logic should have clear boundaries.
+
+### Build for the next version
+
+Good engineering is not just about making something work today. It is about leaving a structure that can evolve tomorrow.
+
+---
+
+# 📚 Currently Learning
+
+* Advanced Django
 * Backend architecture
 * Quantitative finance
 * Statistical research
-* Data analysis with Python
+* Machine learning for financial data
+* Data engineering
 * Production software engineering
-* Testing and system validation
+* System reliability and testing
 
 ---
 
-## 🎯 What I’m Working Toward
+# 📫 Connect
 
-My long-term goal is to become a strong **software and quantitative engineer** capable of building reliable systems from research and prototype stages through to production.
+<div align="center">
 
-I am especially interested in opportunities involving:
+<a href="https://github.com/en19ma">
+<img src="https://img.shields.io/badge/GitHub-en19ma-181717?style=for-the-badge&logo=github" />
+</a>
 
-* Backend engineering
-* FinTech
-* Quantitative development
-* Financial technology
-* Data-driven software
-* Research engineering
+</div>
 
 ---
 
-## 📊 GitHub Activity
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=en19ma&show_icons=true&hide_border=true&rank_icon=github" alt="Albert's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=en19ma&layout=compact&hide_border=true" alt="Albert's top languages" />
-</p>
+### `Software • Data • Finance`
 
----
+*Building systems where software meets data.*
 
-## 📫 Let’s Connect
-
-<p align="left">
-  <a href="https://github.com/en19ma">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Build. Validate. Improve.</i>
-</p>
+</div>
