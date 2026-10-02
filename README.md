@@ -2,9 +2,9 @@
 
 # 👋🏾 ALBERT O’DOOM
 
-### Backend Engineer • Quantitative Developer • Software Engineering Student
+### Backend Engineer • Quantitative Finance • Software Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+backend+systems;Engineering+data-driven+applications;Researching+quantitative+systems;Python+%7C+Django+%7C+FastAPI;Building+systems+where+software+meets+data" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+backend+systems;Working+with+quantitative+finance;Engineering+data-driven+applications;Python+%7C+Django+%7C+FastAPI;Building+systems+where+software+meets+data" alt="Typing SVG" />
 
 </div>
 
@@ -12,9 +12,9 @@
 
 ## 👨🏾‍💻 About Me
 
-I am a final-year **Computer Engineering student** focused on backend engineering, quantitative software, and data-driven systems.
+I am a final-year **Computer Engineering student** with a focus on backend engineering, quantitative finance, and data-driven software systems.
 
-I enjoy taking an idea from a rough concept and turning it into a structured system with clear architecture, reliable data flows, validation, and production-oriented engineering practices.
+I enjoy building practical systems that combine software engineering, databases, APIs, data analysis, and financial research.
 
 My current interests include:
 
@@ -22,78 +22,40 @@ My current interests include:
 * 🌐 Django & FastAPI
 * 🗄️ PostgreSQL & database systems
 * 📊 Data engineering and analysis
-* 📈 Quantitative finance & research systems
-* ⚙️ API architecture and backend development
+* 📈 Quantitative finance
+* ⚙️ API design and backend architecture
 * 🧪 Testing, validation, and reliability
-* 🚀 Turning research projects into usable software
+* 🚀 Production-oriented software engineering
 
 > **Build carefully. Validate relentlessly. Ship intentionally.**
 
 ---
 
-## 🧰 Tech Stack
+# 💼 Experience
 
-### Languages
+## 📈 Quantitative Finance
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+I have experience working in **quantitative finance**, combining programming, data analysis, financial markets, and systematic research.
 
-### Backend
+My work in this area has involved:
 
-<p>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
-### Databases & Tools
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-# 🚀 Featured Work
-
-## 📈 SWENE CAPITAL / QuantFX
-
-**Quantitative Research & Controlled Execution Platform**
-
-A research-oriented quantitative finance system designed around a simple principle:
-
-> **Validated market behavior should come before model complexity and execution.**
-
-The platform focuses on:
-
-* Market data capture and validation
-* Dataset manifests and quality checks
-* Event and outcome analysis
-* Behavioral pattern discovery
+* Financial market data
+* Quantitative research
+* Python-based analysis
+* Data validation and preparation
+* Pattern and behavior analysis
 * Feature engineering
-* Market-state analysis
-* Behavior registries
-* Opportunity research
-* Machine-learning research
-* Risk management
-* Exit optimization
-* Paper and shadow execution
-* MT5 integration
-* Monitoring and production safeguards
+* Risk management concepts
+* Strategy research
+* Backtesting and performance analysis
+* Research-to-execution workflows
+* Building software around financial data
 
-The architecture is designed to keep the research pipeline separated from execution while preserving traceability between **data → behavior → research → risk → execution**.
-
-🔗 **Repository:**
-https://github.com/en19ma/swene-capital-quant
+This experience has strengthened my interest in the intersection of **software engineering, statistics, financial markets, and data**.
 
 ---
+
+# 🚀 Featured Projects
 
 ## 🧑🏾‍🏫 RollCall+
 
@@ -143,7 +105,7 @@ https://github.com/en19ma/student-gradebook-system
 
 ## ⚙️ Backend API Development
 
-I also build backend APIs focused on practical application requirements such as:
+I build backend APIs focused on practical application requirements such as:
 
 * REST API architecture
 * Authentication and authorization
@@ -160,6 +122,36 @@ My backend work emphasizes **clear data models, predictable API behavior, securi
 
 ---
 
+# 🧰 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+### Databases & Tools
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
 # 🧠 Engineering Focus
 
 ```text
@@ -170,7 +162,7 @@ My backend work emphasizes **clear data models, predictable API behavior, securi
 │  Backend Architecture       ████████████████████     │
 │  API Development            ████████████████████     │
 │  Database Systems            ███████████████████      │
-│  Quant Research              ██████████████████       │
+│  Quantitative Finance        ██████████████████       │
 │  Data Engineering            █████████████████        │
 │  Testing & Validation        ████████████████         │
 │                                                      │
@@ -179,29 +171,62 @@ My backend work emphasizes **clear data models, predictable API behavior, securi
 
 I am particularly interested in systems where software engineering and data analysis meet.
 
-That includes financial research platforms, backend infrastructure, analytics systems, and applications that need reliable data pipelines.
+That includes financial research, backend infrastructure, analytics systems, and applications that need reliable data pipelines.
 
 ---
 
-# 🔬 Current Work
-
-### SWENE CAPITAL / QuantFX
-
-Researching and engineering a quantitative system with an emphasis on:
-
-`Data Quality → Validation → Behavior Discovery → Research → Risk → Controlled Execution`
-
-### Django
-
-Continuing to strengthen my understanding of:
-
-`Models → ORM → Queries → APIs → Authentication → Production`
+# 🔬 What I Am Working On
 
 ### Backend Engineering
 
-Building APIs and database-driven systems while improving:
+Strengthening my ability to design and build:
 
-`Architecture → Testing → Security → Deployment → Observability`
+`APIs → Databases → Authentication → Business Logic → Deployment`
+
+### Quantitative Finance
+
+Developing deeper knowledge of:
+
+`Market Data → Statistics → Research → Risk → Systematic Analysis`
+
+### Django
+
+Continuing to build with:
+
+`Models → ORM → Queries → APIs → Authentication`
+
+---
+
+# 🧭 Engineering Principles
+
+### Validate before optimizing
+
+A sophisticated solution is not useful if the underlying data or assumptions have not been validated.
+
+### Prefer targeted changes
+
+I aim to improve existing systems without rewriting working components unnecessarily.
+
+### Design for observability
+
+Systems should make it possible to understand what happened, why it happened, and where something failed.
+
+### Build for the next version
+
+Good engineering is not only about making something work today. It is about creating a structure that can evolve tomorrow.
+
+---
+
+# 📚 Currently Learning
+
+* Advanced Django
+* Backend architecture
+* Quantitative finance
+* Statistical research
+* Machine learning
+* Data engineering
+* Production software engineering
+* System reliability and testing
 
 ---
 
@@ -220,43 +245,6 @@ Building APIs and database-driven systems while improving:
 <img src="https://streak-stats.demolab.com?user=en19ma&hide_border=true" />
 
 </div>
-
----
-
-# 🧭 Engineering Principles
-
-### Validate before optimizing
-
-A sophisticated model is not useful if the underlying data or behavior has not been validated.
-
-### Prefer targeted changes
-
-I aim to improve existing systems without rewriting working components unnecessarily.
-
-### Design for observability
-
-Systems should make it possible to understand what happened, why it happened, and where something failed.
-
-### Separate research from execution
-
-Especially in quantitative systems, research logic and execution logic should have clear boundaries.
-
-### Build for the next version
-
-Good engineering is not just about making something work today. It is about leaving a structure that can evolve tomorrow.
-
----
-
-# 📚 Currently Learning
-
-* Advanced Django
-* Backend architecture
-* Quantitative finance
-* Statistical research
-* Machine learning for financial data
-* Data engineering
-* Production software engineering
-* System reliability and testing
 
 ---
 
